@@ -12,11 +12,11 @@ Run the game: `python main.py`
 
 ## Features
 - Colorful graphics and smooth animation with Turtle
-- Increasing difficulty as the snake grows longer
+- Increasing difficulty as the play time increases 
 - Score tracking with a scoreboard
 
 ## Contributing
-We welcome contributions, bug reports, and suggestions from the GitHub community. Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting a pull request.
+We welcome contributions, bug reports, and suggestions from the GitHub community.
 
 ## Credits
 - Inspired by [Pong Game Tutorial] by Dr. Angela Yu
